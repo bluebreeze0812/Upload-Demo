@@ -1,0 +1,7 @@
+@CHARSET "UTF-8";
+.form_div {
+	width: 400px;
+	display: -moz-box;
+	-moz-box-align: center;
+	-moz-box-pack: center;
+}
